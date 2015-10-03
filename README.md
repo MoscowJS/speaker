@@ -100,7 +100,7 @@ Please send us:
         12 May 19:00-22:00
         15 May 21:00-23:00
 
-    More on rehersals later.
+    More on rehersals [here](#preparation-process).
 
 * `T-1 day` (1 day before)
 
@@ -153,6 +153,18 @@ Please make sure your slides comply these requirements:
 
 ## Links
 
+These resources will help you prepare an awesome presentation.
+
+- [speaking.io][speakingio] – collection of advices about public speaking;
+- ["Public Speaking"][public-speaking-course] course on
+  [coursera.org][coursera];
+- Article ["You should give talks. They will be awesome. Here's
+  why!"][you-should-give-talks] by [Julia Evans][julia];
+- Article ["How To Give the Killer Tech Talk — A Pamphlet"][killer-talk]
+  by [Jan Lehnardt][jan];
+- Article in Russian ["Как подготовиться к докладу на техническую
+  тем"][kak] by [Andrey Salomatin][andrey].
+
 ## Code of Conduct
 
 MoscowJS welcomes everyone, and defends you from harassment. For details
@@ -161,5 +173,15 @@ violating these rules, we refer to [Code of Conduct][coc].
 
 [site]: http://moscowojs.ru "Official site"
 [email]: mailto:team@moscowjs.ru
-[nasa-countdown]: http://www.nasa.gov/mission_pages/shuttle/launch/countdown101.html
 [coc]: http://confcodeofconduct.com/
+[speakingio]: http://speaking.io
+[public-speaking-course]: https://www.coursera.org/learn/public-speaking
+[coursera]: https://coursera.org
+[you-should-give-talks]: http://jvns.ca/blog/2014/01/12/public-speaking/
+[julia]: http://jvns.ca/
+[killer-talk]: http://writing.jan.io/2013/05/10/how-to-give-the-killer-tech-talk---a-pamphlet.html
+[jan]: http://writing.jan.io/
+[kak]: http://habrahabr.ru/company/moscowjs/blog/230019/
+[andrey]: http://andreysalomatin.me
+
+[nasa-countdown]: http://www.nasa.gov/mission_pages/shuttle/launch/countdown101.html
