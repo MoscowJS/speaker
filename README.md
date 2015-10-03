@@ -132,9 +132,27 @@ every talk is recoreded and published online after the event?)
 
 ## Checklist for slides
 
+Please make sure your slides comply these requirements:
+
+- [ ] Title slide
+  - [ ] Has talk name
+  - [ ] Has your name and any public contact info (email, twitter, etc)
+- [ ] Every slide except title has number on it
+- [ ] Code on slides
+  - [ ] Is short
+  - [ ] Is not a bitmapped image
+  - [ ] Has light background
+  - [ ] Has syntax highlight
+  - [ ] Is typed with monospaced font
+- [ ] Slides do not have content, that violates [Code of Conduct][coc]
+- [ ] Final slide
+  - [ ] Has your name and public contact info (email, twitter, etc)
+  - [ ] Has a single short readable link (e.g. `bit.ly/mytalk`) to a place
+    with all the repos/articles/slides/demos used in the presentation.
 
 ## Links
 
 [site]: http://moscowojs.ru "Official site"
 [email]: mailto:team@moscowjs.ru
 [nasa-countdown]: http://www.nasa.gov/mission_pages/shuttle/launch/countdown101.html
+[coc]: http://confcodeofconduct.com/

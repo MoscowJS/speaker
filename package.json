@@ -5,7 +5,8 @@
   "main": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "precommit": "doctoc ."
+    "precommit": "npm run toc",
+    "toc": "doctoc ."
   },
   "repository": {
     "type": "git",
