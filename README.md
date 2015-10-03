@@ -16,6 +16,7 @@ How to prepare a presentation for MoscowJS.
 - [Preparation Process](#preparation-process)
 - [Checklist for slides](#checklist-for-slides)
 - [Links](#links)
+- [Code of Conduct](#code-of-conduct)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -151,6 +152,12 @@ Please make sure your slides comply these requirements:
     with all the repos/articles/slides/demos used in the presentation.
 
 ## Links
+
+## Code of Conduct
+
+MoscowJS welcomes everyone, and defends you from harassment. For details
+on what kinds of behaviour are not tolerated and consequences for
+violating these rules, we refer to [Code of Conduct][coc].
 
 [site]: http://moscowojs.ru "Official site"
 [email]: mailto:team@moscowjs.ru
