@@ -1,0 +1,29 @@
+{
+  "name": "speaker",
+  "version": "1.0.0",
+  "description": "How to prepare a presentation",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "precommit": "doctoc ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoscowJS/speaker.git"
+  },
+  "keywords": [
+    "public",
+    "speaking",
+    "tips&tricks"
+  ],
+  "author": "filipovskii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoscowJS/speaker/issues"
+  },
+  "homepage": "https://github.com/MoscowJS/speaker#readme",
+  "devDependencies": {
+    "doctoc": "^0.15.0",
+    "husky": "^0.10.1"
+  }
+}
