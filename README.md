@@ -77,7 +77,7 @@ about the talk to share on social media and mailing lists.
 Please send all the info to our [email][email].
 
 Please provide this information before given dates. It is important for
-us to inform everyone interested in the event at times when it's relevant.
+us to inform everyone interested in the event when it's relevant.
 
 Let's use [NASA countdown][nasa-countdown] scheme to mark important
 milestones. Given that `T` is the date of the meetup:
