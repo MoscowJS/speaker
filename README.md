@@ -13,6 +13,9 @@ How to prepare a presentation for MoscowJS.
   - [Topics](#topics)
 - [Submission Process](#submission-process)
 - [Details about your Talk](#details-about-your-talk)
+- [Preparation Process](#preparation-process)
+- [Checklist for slides](#checklist-for-slides)
+- [Links](#links)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -102,6 +105,35 @@ Please send us:
 
     Your slides, both original and `pdf` versions.
 
+## Preparation Process
+
+We encourage you to be creative with your presentation. But whatever you
+want to do "on stage" experience shows that it's better to be prepared.
+
+You'll find links about every aspect of preparing a talk [below](#links).
+As well as our [check list for slides](#checklist-for-slides).
+
+One of the ways to improve quality of your presentation is to do
+rehersals.  You can do them by yourself, telling your speach out loud, or
+ask a collegue to listen to you and give feedback.
+
+Every our talk goes through **3 rehersal sessions** with organizers and
+previous speakers. Two of them by skype, one live at the venue the day
+before meetup.
+
+You'll receive feedback from people with experience both **doing**
+technical presentations and **coaching** people who are preparing one.
+
+This may seem like an overkill, but belive me, your presentation will be
+more valuable, clear and concise after these rehersals. You will be less
+nervous on stage and prepared in case anything goes wrong. Listeners will
+be thankful and you'll have something to be proud of. (Did I mention that
+every talk is recoreded and published online after the event?)
+
+## Checklist for slides
+
+
+## Links
 
 [site]: http://moscowojs.ru "Official site"
 [email]: mailto:team@moscowjs.ru
