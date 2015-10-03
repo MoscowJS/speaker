@@ -23,7 +23,8 @@ How to prepare a presentation for MoscowJS.
 
 ## Abstract
 
-...
+This repo contains guidlines on how to submit and prepare a talk for
+[MoscowJS][site].
 
 
 ## Submission Requirements
