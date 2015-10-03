@@ -11,6 +11,7 @@ How to prepare a presentation for MoscowJS.
   - [Public Speaking Experience](#public-speaking-experience)
   - [Required Info](#required-info)
   - [Topics](#topics)
+  - [Limitations](#limitations)
 - [Submission Process](#submission-process)
 - [Details about your Talk](#details-about-your-talk)
 - [Preparation Process](#preparation-process)
@@ -31,12 +32,10 @@ This repo contains guidlines on how to submit and prepare a talk for
 
 ### Public Speaking Experience
 
-No previous experience is required to give a talk. Our team will help you
-prepare your presentation.
+No previous experience is required to give a talk. We welcome everyone and
+will help you prepare your speech.
 
 ### Required Info
-
-To submit a talk this information is required:
 
 - Name of the talk
 - Preferred ways to contact you
@@ -53,6 +52,11 @@ Here is an **incomplete** list of topics, that we welcome at the meetup.
 This list is here only for reference. If you have an idea for a talk, that
 does not relate to any of those, please don't hesitate to [submit
 it](#submission-process).
+
+### Limitations
+
+The only limitation we have now is timing: presentation should not take
+more than 15 minutes + 5 minutes for questions from the audience.
 
 ## Submission Process
 
@@ -116,7 +120,7 @@ You'll find links about every aspect of preparing a talk [below](#links).
 As well as our [check list for slides](#checklist-for-slides).
 
 One of the ways to improve quality of your presentation is to do
-rehersals.  You can do them by yourself, telling your speach out loud, or
+rehersals.  You can do them by yourself, telling your speech out loud, or
 ask a collegue to listen to you and give feedback.
 
 Every our talk goes through **3 rehersal sessions** with organizers and
