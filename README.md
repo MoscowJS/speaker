@@ -18,6 +18,7 @@ How to prepare a presentation for MoscowJS.
 - [Checklist for slides](#checklist-for-slides)
 - [Links](#links)
 - [Code of Conduct](#code-of-conduct)
+- [Contacts](#contacts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -176,6 +177,11 @@ MoscowJS welcomes everyone, and defends you from harassment. For details
 on what kinds of behaviour are not tolerated and consequences for
 violating these rules, we refer to [Code of Conduct][coc].
 
+## Contacts
+
+If you have any questions, please don't hesitate to ask us by
+[email][email] or in form of a [github issue][create-issue].
+
 [site]: http://moscowjs.ru "Official site"
 [email]: mailto:team@moscowjs.ru
 [coc]: http://confcodeofconduct.com/
@@ -188,5 +194,6 @@ violating these rules, we refer to [Code of Conduct][coc].
 [jan]: http://writing.jan.io/
 [kak]: http://habrahabr.ru/company/moscowjs/blog/230019/
 [andrey]: http://andreysalomatin.me
+[create-issue]: https://github.com/MoscowJS/speaker/issues/new
 
 [nasa-countdown]: http://www.nasa.gov/mission_pages/shuttle/launch/countdown101.html
