@@ -176,7 +176,7 @@ MoscowJS welcomes everyone, and defends you from harassment. For details
 on what kinds of behaviour are not tolerated and consequences for
 violating these rules, we refer to [Code of Conduct][coc].
 
-[site]: http://moscowojs.ru "Official site"
+[site]: http://moscowjs.ru "Official site"
 [email]: mailto:team@moscowjs.ru
 [coc]: http://confcodeofconduct.com/
 [speakingio]: http://speaking.io
