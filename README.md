@@ -33,8 +33,8 @@ This repo contains guidlines on how to submit and prepare a talk for
 
 ### Public Speaking Experience
 
-No previous experience is required to give a talk. We welcome everyone and
-will help you prepare your speech.
+No previous public speaking experience is required to give a talk. We
+welcome everyone and will help you prepare your speech.
 
 ### Required Info
 
