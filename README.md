@@ -89,6 +89,7 @@ Please send us:
     Information about you:
 
     - Your Name
+    - Company Name (optional)
     - Skype ID (for rehersals)
     - Phone number (as an emergency contact)
     - Photo (for the [web site][site])
