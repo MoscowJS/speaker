@@ -90,7 +90,7 @@ Please send us:
 
     - Your Name
     - Company Name (optional)
-    - Skype ID (for rehersals)
+    - Skype ID (for rehearsals)
     - Phone number (as an emergency contact)
     - Photo (for the [web site][site])
     - Public contacts, like twitter, github etc (for the [web site][site])
@@ -102,12 +102,12 @@ Please send us:
 
 * `T-14 days` (2 weeks before)
 
-    2 dates, when it's comfortable for you to do skype calls/rehersals. E.g.
+    2 dates, when it's comfortable for you to do skype calls/rehearsals. E.g.
 
         12 May 19:00-22:00
         15 May 21:00-23:00
 
-    More on rehersals [here](#preparation-process).
+    More on rehearsals [here](#preparation-process).
 
 * `T-1 day` (1 day before)
 
@@ -122,10 +122,10 @@ You'll find links about every aspect of preparing a talk [below](#links).
 As well as our [check list for slides](#checklist-for-slides).
 
 One of the ways to improve quality of your presentation is to do
-rehersals.  You can do them by yourself, telling your speech out loud, or
+rehearsals.  You can do them by yourself, telling your speech out loud, or
 ask a collegue to listen to you and give feedback.
 
-Every our talk goes through **3 rehersal sessions** with organizers and
+Every our talk goes through **3 rehearsal sessions** with organizers and
 previous speakers. Two of them by skype, one live at the venue the day
 before meetup.
 
@@ -133,7 +133,7 @@ You'll receive feedback from people with experience both **doing**
 technical presentations and **coaching** people who are preparing one.
 
 This may seem like an overkill, but belive me, your presentation will be
-more valuable, clear and concise after these rehersals. You will be less
+more valuable, clear and concise after these rehearsals. You will be less
 nervous on stage and prepared in case anything goes wrong. Listeners will
 be thankful and you'll have something to be proud of. (Did I mention that
 every talk is recoreded and published online after the event?)
