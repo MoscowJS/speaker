@@ -61,12 +61,8 @@ more than 15 minutes + 5 minutes for questions from the audience.
 
 ## Submission Process
 
-There are currently 2 ways to submit a talk:
-
-- [Official Site][site]
-- Email [team@moscowjs.ru][email]
-
-You'll receive an answer from organizers within a week after submission.
+Submit your proposal by email: [team@moscowjs.ru][email]. We'll answer
+within a week after submission.
 
 ## Details about your Talk
 
