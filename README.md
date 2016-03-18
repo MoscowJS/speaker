@@ -128,7 +128,7 @@ before meetup.
 You'll receive feedback from people with experience both **doing**
 technical presentations and **coaching** people who are preparing one.
 
-This may seem like an overkill, but belive me, your presentation will be
+This may seem like an overkill, but believe me, your presentation will be
 more valuable, clear and concise after these rehearsals. You will be less
 nervous on stage and prepared in case anything goes wrong. Listeners will
 be thankful and you'll have something to be proud of. (Did I mention that
