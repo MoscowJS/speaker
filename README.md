@@ -166,7 +166,7 @@ These resources will help you prepare an awesome presentation.
 - Article ["How To Give the Killer Tech Talk — A Pamphlet"][killer-talk]
   by [Jan Lehnardt][jan];
 - Article in Russian ["Как подготовиться к докладу на техническую
-  тем"][kak] by [Andrey Salomatin][andrey].
+  тему"][kak] by [Andrey Salomatin][andrey].
 
 ## Code of Conduct
 
