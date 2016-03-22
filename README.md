@@ -61,8 +61,15 @@ more than 15 minutes + 5 minutes for questions from the audience.
 
 ## Submission Process
 
-Submit your proposal by email: [team@moscowjs.ru][email]. We'll answer
-within a week after submission.
+Submit your proposal by email to [team@moscowjs.ru][email] or PR to current repository. 
+
+How to make PR:
+
+1. Fork current repository.
+2. Upload photo with you to [assets folder](/images) and name it with your nikname.
+3. Create or use existing moscowjs-*.md file with other proposals. 
+4. Write title and description of your talk, attach your upladed photo and your contacts. See [example](https://github.com/MoscowJS/moscowjs.ru/edit/gen-v2/content/events/moscowjs-29.md).
+5. Make PR and wait.
 
 ## Details about your Talk
 
