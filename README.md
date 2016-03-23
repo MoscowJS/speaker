@@ -61,14 +61,14 @@ more than 15 minutes + 5 minutes for questions from the audience.
 
 ## Submission Process
 
-Submit your proposal by email to [team@moscowjs.ru][email] or PR to current repository. 
+Submit your proposal by email to [team@moscowjs.ru][email] or PR to [MoscowsJS][repo] repository. 
 
 How to make PR:
 
-1. Fork current repository.
-2. Upload photo with you to [assets folder](/images) and name it with your nikname.
-3. Create or use existing moscowjs-*.md file with other proposals. 
-4. Write title and description of your talk, attach your upladed photo and your contacts. See [example](https://github.com/MoscowJS/moscowjs.ru/edit/gen-v2/content/events/moscowjs-29.md).
+1. Fork [MoscowsJS][repo] repository.
+2. Upload photo with you to [speakers photos folder][speakers-photos] and name it with your nikname.
+3. Create or use existing moscowjs-*.md file with other proposals in [events folder][events]. 
+4. Write title and description of your talk, attach your upladed photo and your contacts. See [example](https://github.com/MoscowJS/moscowjs.ru/blob/gen-v2/content/events/moscowjs-29.md).
 5. Make PR and wait.
 
 ## Details about your Talk
@@ -186,6 +186,9 @@ violating these rules, we refer to [Code of Conduct][coc].
 If you have any questions, please don't hesitate to ask us by
 [email][email] or in form of a [github issue][create-issue].
 
+[repo]: https://github.com/MoscowJS/moscowjs.ru
+[speakers-photos]: https://github.com/MoscowJS/moscowjs.ru/tree/gen-v2/images/speakers
+[events]: https://github.com/MoscowJS/moscowjs.ru/tree/gen-v2/content/events
 [site]: http://moscowjs.ru "Official site"
 [email]: mailto:team@moscowjs.ru
 [coc]: http://confcodeofconduct.com/
