@@ -17,6 +17,9 @@ How to prepare a presentation for MoscowJS.
 - [Preparation Process](#preparation-process)
 - [Checklist for slides](#checklist-for-slides)
 - [Links](#links)
+- [After the Talk](#after-the-talk)
+  - [Feedback](#feedback)
+  - [Next Steps](#next-steps)
 - [Code of Conduct](#code-of-conduct)
 - [Contacts](#contacts)
 
@@ -176,6 +179,45 @@ These resources will help you prepare an awesome presentation.
   by [Jan Lehnardt][jan];
 - Article in Russian ["Как подготовиться к докладу на техническую
   тему"][kak] by [Andrey Salomatin][andrey].
+
+
+## After the Talk
+
+We want you to get the most out of your experience speaking at MoscowJS.
+This section is about what happens after the meetup and how it can help
+you improve yourself as a speaker and keep in touch with other speakers
+and organizers.
+
+### Feedback
+
+Feedback is an important step of the process. It can help you uderstand
+your strengths and weaknesses, choose a direction in which you'd like to
+grow as a speaker.
+
+We usually ask attendees to rate the meetup and every talk after the
+event. You as a speaker will have access to this feedback.
+
+Another great source of feedback are your mentors. If you had rehearsals
+before the meetup, feel free to reach out to your mentors and ask for
+their general opinion about how you did.
+
+
+### Next Steps
+
+I hope you've enjoyed working on your presentation and speaking at
+MoscowJS. If you have, and would like to contribute in return, this is how
+you can help us make MoscowJS better.
+
+* Take one speaker of the future meetup and help them prepare their
+  presentation. Join their rehearsals and share what you've learned. This
+  is also a good way to learn more about the speaker's subject and public
+  speaking in general.
+
+* Participate in discussions in the Speakers Mailing List. Share your
+  thoughts on how to improve MoscowJS.
+
+* Enjoy going to our events without registering in advance. From that
+  moment on you will always be on the list ;)
 
 
 ## Code of Conduct
