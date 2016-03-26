@@ -61,13 +61,15 @@ more than 15 minutes + 5 minutes for questions from the audience.
 
 ## Submission Process
 
-Submit your proposal by email to [team@moscowjs.ru][email] or PR to [MoscowsJS][repo] repository. 
+Submit your proposal by email to [team@moscowjs.ru][email] or PR to
+[MoscowsJS][repo] repository.
 
 How to make PR:
 
 1. Fork [MoscowsJS][repo] repository.
 2. Upload photo with you to [speakers photos folder][speakers-photos] and name it with your nikname.
-3. Create or use existing moscowjs-*.md file with other proposals in [events folder][events]. 
+3. Create or use existing moscowjs-\*.md file with other proposals in
+   [events folder][events].
 4. Write title and description of your talk, attach your upladed photo and your contacts. See [example](https://github.com/MoscowJS/moscowjs.ru/blob/gen-v2/content/events/moscowjs-29.md).
 5. Make PR and wait.
 
@@ -146,13 +148,13 @@ every talk is recoreded and published online after the event?)
 Please make sure your slides comply these requirements:
 
 - [ ] Title slide
-  - [ ] Has talk name
+  - [ ] Has the name of the talk
   - [ ] Has your name and any public contact info (email, twitter, etc)
-- [ ] Every slide except title has number on it
+- [ ] Every slide except for the title slide has it's number on it
 - [ ] Code on slides
   - [ ] Is short
   - [ ] Is not a bitmapped image
-  - [ ] Has light background
+  - [ ] Has a light background
   - [ ] Has syntax highlight
   - [ ] Is typed with monospaced font
 - [ ] Slides do not have content, that violates [Code of Conduct][coc]
@@ -174,6 +176,7 @@ These resources will help you prepare an awesome presentation.
   by [Jan Lehnardt][jan];
 - Article in Russian ["Как подготовиться к докладу на техническую
   тему"][kak] by [Andrey Salomatin][andrey].
+
 
 ## Code of Conduct
 
