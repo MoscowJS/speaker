@@ -46,14 +46,14 @@ welcome everyone and will help you prepare your speech.
 
 ### Topics
 
-Here is an **incomplete** list of topics, that we welcome at the meetup.
+Here is an **incomplete** list of topics that we welcome at the meetup.
 
 - Technical topics: programming languages, libraries, frameworks, platforms;
 - Processes and communication: team organization, knowledge sharing;
 - Non-standart applications of technology: experiments and reasoning;
 - Online and offline communities: building and expanding thematic discussion groups.
 
-This list is here only for reference. If you have an idea for a talk, that
+This list is here only for reference. If you have an idea for a talk that
 does not relate to any of those, please don't hesitate to [submit
 it](#submission-process).
 
@@ -71,7 +71,7 @@ Also you can create PR to [MoscowsJS][repo] repository.
 How to make PR:
 
 1. Fork [MoscowsJS][repo] repository.
-2. Upload photo with you to [speakers photos folder][speakers-photos] and name it with your nikname.
+2. Upload a photo of yourself to [speakers photos folder][speakers-photos] and name it with your nickname.
 3. Create or use existing moscowjs-\*.md file with other proposals in
    [events folder][events].
 4. Write title and description of your talk, attach your upladed photo and your contacts. See [example](https://github.com/MoscowJS/moscowjs.ru/blob/gen-v2/content/events/moscowjs-29.md).
@@ -102,7 +102,7 @@ Please send us:
     - Skype ID (for rehearsals)
     - Phone number (as an emergency contact)
     - Photo (for the [web site][site])
-    - Public contacts, like twitter, github etc (for the [web site][site])
+    - Public contacts, e.g. twitter, github, etc (for the [web site][site])
 
     Information about the talk:
 
@@ -124,17 +124,16 @@ Please send us:
 
 ## Preparation Process
 
-We encourage you to be creative with your presentation. But whatever you
-want to do "on stage" experience shows that it's better to be prepared.
+We encourage you to be creative with your presentation. But that doesn't mean you have to improvise as you speak: in our experience it's always better to be prepared.
 
 You'll find links about every aspect of preparing a talk [below](#links).
 As well as our [check list for slides](#checklist-for-slides).
 
 One of the ways to improve quality of your presentation is to do
-rehearsals.  You can do them by yourself, telling your speech out loud, or
+rehearsals. You can do them by yourself, out loud, or
 ask a collegue to listen to you and give feedback.
 
-Every our talk goes through **3 rehearsal sessions** with organizers and
+Each of our talks goes through **3 rehearsal sessions** with organizers and
 previous speakers. Two of them by skype, one live at the venue the day
 before meetup.
 
@@ -154,7 +153,7 @@ Please make sure your slides comply these requirements:
 - [ ] Title slide
   - [ ] Has the name of the talk
   - [ ] Has your name and any public contact info (email, twitter, etc)
-- [ ] Every slide except for the title slide has it's number on it
+- [ ] Every slide except for the title slide has its number on it
 - [ ] Code on slides
   - [ ] Is short
   - [ ] Is not a bitmapped image
