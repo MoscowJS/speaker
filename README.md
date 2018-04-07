@@ -64,7 +64,7 @@ more than 15 minutes + 5 minutes for questions from the audience.
 
 ## Submission Process
 
-Submit your proposal by email to [team@moscowjs.ru][email] or this [online form](https://docs.google.com/forms/d/1GI7rQQpjedSFtOYS5aDYkeYP55F80wNNg2eyFEle4zk/viewform).
+Submit your proposal by email to [team@moscowjs.ru][email] or this [online form](https://tenphi.typeform.com/to/I8mLvS).
 
 Also you can create PR to [MoscowsJS][repo] repository.
 
