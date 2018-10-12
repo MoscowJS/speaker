@@ -160,7 +160,7 @@ Please make sure your slides comply these requirements:
   - [ ] Has a light background
   - [ ] Has syntax highlight
   - [ ] Is typed with monospaced font
-- [ ] Slides do not have content, that violates [Code of Conduct][coc]
+- [ ] Slides do not have content that violates [Code of Conduct][coc]
 - [ ] Final slide
   - [ ] Has your name and public contact info (email, twitter, etc)
   - [ ] Has a single short readable link (e.g. `bit.ly/mytalk`) to a place
