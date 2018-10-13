@@ -242,7 +242,7 @@ If you have any questions, please don't hesitate to ask us by
 [coursera]: https://coursera.org
 [you-should-give-talks]: http://jvns.ca/blog/2014/01/12/public-speaking/
 [julia]: http://jvns.ca/
-[killer-talk]: http://writing.jan.io/2013/05/10/how-to-give-the-killer-tech-talk---a-pamphlet.html
+[killer-talk]: https://web.archive.org/web/20161012204049/http://writing.jan.io:80/2013/05/10/how-to-give-the-killer-tech-talk---a-pamphlet.html
 [jan]: http://writing.jan.io/
 [kak]: http://habrahabr.ru/company/moscowjs/blog/230019/
 [andrey]: http://andreysalomatin.me
